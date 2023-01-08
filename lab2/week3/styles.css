@@ -49,7 +49,7 @@
     height: 150px;
     margin: auto;
     margin-bottom: 20px;
-    border: 2px solid #FF6D51;
+    border: 2px solid #FFC93C;
     border-radius: 50%;
     padding: 8px;
     position: relative;
@@ -60,7 +60,7 @@
     width: 100%;
     height: 100%;
     position: absolute;
-    border: 1px solid #FF6D51;
+    border: 1px solid #FFC93C;
     left: 0;
     top: 0;
     box-sizing: border-box;
@@ -129,7 +129,7 @@
     height: 60px;
     background: #FFC93C;
     border-radius: 50%;
-    color: #0081C9;
+    color: #000000;
     font-size: 20px;
     line-height: 60px !important;
     margin: 0 10px;
@@ -141,7 +141,7 @@
     width: 100%;
     height: 100%;
     position: absolute;
-    background: #FF6D51;
+    background: #86E5FF;
     left: 0;
     top: 0;
     box-sizing: border-box;
